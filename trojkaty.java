@@ -1,5 +1,5 @@
 /**
-* To jest program do rozpoznawania trójkąta.
+//komentarz konflikt
 */
 
 class Trojkaty {
